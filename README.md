@@ -32,7 +32,7 @@ This platform allows users to book, manage, and cancel appointments with doctors
 - Backend: Node.js + Express.js  
 - Database: MongoDB (Mongoose ODM)  
 - Authentication: JWT (JSON Web Token)  
-- Styling: TailwindCSS (or your chosen CSS framework)  
+- Styling: TailwindCSS  
 
 ---
 
